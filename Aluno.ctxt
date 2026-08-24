@@ -1,0 +1,13 @@
+#BlueJ class context
+#Mon Aug 24 10:33:16 BRT 2026
+comment0.target=Aluno
+comment1.params=matricula nome login senha
+comment1.target=Aluno(int, java.lang.String, java.lang.String, java.lang.String)
+comment2.target=double getNotaAV1()
+comment3.params=notaAV1
+comment3.target=void setNotaAV1(double)
+comment4.target=double getNotaAV2()
+comment5.params=notaAV2
+comment5.target=void setNotaAV2(double)
+comment6.target=void exibeDados()
+numComments=7
